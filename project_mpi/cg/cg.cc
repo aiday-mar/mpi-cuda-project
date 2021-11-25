@@ -29,8 +29,8 @@ function x = conjgrad(A, b, x)
         rsold = rsnew;
     end
 end
-
 */
+
 void CGSolver::solve(std::vector<double> & x) {
   
   // The value of m_n is 10000
