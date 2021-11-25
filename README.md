@@ -2,7 +2,7 @@
 
 This is a project I did for my "Parallel and High-Performance Computing" course at EPFL. The goal was to optimize the conjugate gradient algorithm using CUDA and MPI in C++. The CG algorithm solves the system: Ax = b, where A is a full, real, symmetric, positive-definite matrix. The algorithm is as follows:
 
-https://raw.githubusercontent.com/aiday-mar/MPI-CUDA-project/main/cg.PNG
+![alt text](https://raw.githubusercontent.com/aiday-mar/MPI-CUDA-project/main/cg.PNG?raw=true)
 
 The code for the solve method for the parallelized MPI version is:
 
