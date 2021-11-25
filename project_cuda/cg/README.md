@@ -1,6 +1,6 @@
 PHPC - CONJUGATE GRADIENT PROJECT
 
-HOWTO COMPILE AND RUN
+HOW TO COMPILE AND RUN
 =====================
 
 Requirements : 
