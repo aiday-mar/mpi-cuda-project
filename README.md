@@ -1,1 +1,1 @@
-# MPI-CUDA-project
+# MPI CUDA project
